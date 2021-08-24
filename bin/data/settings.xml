@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<group>
+	<int_slider>5</int_slider>
+	<float_slider>124.5</float_slider>
+	<toggle>0</toggle>
+	<int_field>100</int_field>
+	<float_field>100</float_field>
+	<text_field>Hello</text_field>
+	<vec2_slider>564.245, 513.306</vec2_slider>
+	<vec3_slider>20.8163, 18.2143, 26.0204</vec3_slider>
+	<vec4_slider>0, 0, 0, 157.423</vec4_slider>
+</group>

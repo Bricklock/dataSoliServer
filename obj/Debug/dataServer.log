@@ -4,11 +4,11 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCT
   ofApp.cpp
   Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
   Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
-  dataServer.vcxproj -> B:\Documents\Projects\openFrameworks\apps\myApps\dataServer\bin\dataServer_debug.exe
+  dataServer.vcxproj -> B:\Documents\Projects\openFrameworks\apps\myApps\dataSoliServer\bin\dataServer_debug.exe
   
   	                   2	B:\Documents\Projects\openFrameworks\libs\fmod\lib\vs\Win32\
-  	  *EXTRA File 		 6018560	B:\Documents\Projects\openFrameworks\apps\myApps\dataServer\bin\FreeImage.dll
+  	  *EXTRA File 		 6018560	B:\Documents\Projects\openFrameworks\apps\myApps\dataSoliServer\bin\FreeImage.dll
   
   	                   1	B:\Documents\Projects\openFrameworks\libs\FreeImage\lib\vs\Win32\
-  	  *EXTRA File 		 1544704	B:\Documents\Projects\openFrameworks\apps\myApps\dataServer\bin\fmod.dll
-  	  *EXTRA File 		 1733120	B:\Documents\Projects\openFrameworks\apps\myApps\dataServer\bin\fmodL.dll
+  	  *EXTRA File 		 1544704	B:\Documents\Projects\openFrameworks\apps\myApps\dataSoliServer\bin\fmod.dll
+  	  *EXTRA File 		 1733120	B:\Documents\Projects\openFrameworks\apps\myApps\dataSoliServer\bin\fmodL.dll

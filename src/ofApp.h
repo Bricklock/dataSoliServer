@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxOsc.h"
+#include "ofxGui.h"
 
 class ofApp : public ofBaseApp{
 
@@ -22,10 +23,19 @@ class ofApp : public ofBaseApp{
 		int clientPort1;
 		int clientPort2;
 		int clientPort3;
-			//message args
+		//message args
 		string participantID;
-
+		int repetitions;
+		
 		ofxOscReceiver receiver;
 		int receivePort1;
 
+		//GUI
+		ofxPanel gui;
+
+		ofxIntSlider repSlider;
+		ofxButton startButton;
+		ofxTextField participantIdField;
 };
+
+void clickStart();
