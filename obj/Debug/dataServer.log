@@ -1,8 +1,6 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of NetworkingUtils.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\NetworkingUtils.cpp, ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\NetworkingUtils.cpp.
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of UdpSocket.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\UdpSocket.cpp, ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\UdpSocket.cpp.
-  main.cpp
   ofApp.cpp
-  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
   Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
   dataServer.vcxproj -> B:\Documents\Projects\openFrameworks\apps\myApps\dataSoliServer\bin\dataServer_debug.exe
   

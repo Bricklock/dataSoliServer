@@ -16,7 +16,7 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		
 		//Sender
-		ofxOscSender sender;
+		ofxOscSender sender1, sender2, sender3;
 		string clientDestination1;
 		string clientDestination2;
 		string clientDestination3;
@@ -33,8 +33,13 @@ class ofApp : public ofBaseApp{
 		//GUI
 		ofxPanel gui;
 
+		ofxLabel client1;
+		ofxLabel client2;
+		ofxLabel client3;
+
+		ofxToggle pause;
 		ofxIntSlider repSlider;
-		ofxButton startButton;
+		ofxButton startButton;		
 		ofxTextField participantIdField;
 };
 
